@@ -112,15 +112,15 @@ a {
 		height: 50px;
 		background-color: #b92e81;
 		border-radius: 50%;
-		position: absolute;
+		position: relative;
 		left: 150px;
-		top: 150px;
+		top: -80px;
 	}
 
 	.logo {
-		position: absolute;
+		position: relative;
 		z-index: +1;
 		left: 150px;
-		top: 150px;
+		top: -25px;
 	}
 
